@@ -29,6 +29,7 @@ A MySQL EDA project analysing global tech layoffs trends. Built on top of the cl
 |---|---|
 | `layoffs.csv` | Raw dataset |
 | `Importing_Data.sql` | Creates the database and imports the CSV |
+| `Project_1_Data_Cleaning.sql` | 4-step data cleaning script |
 | `Project_2_Exploratory_Data_Analysis.sql` | Full EDA script |
 
 ---
