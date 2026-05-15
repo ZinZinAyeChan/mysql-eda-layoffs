@@ -56,10 +56,3 @@ A MySQL EDA project analysing global tech layoff trends. Built on top of the cle
 ## 🛠️ Built With
 
 - MySQL
-
----
-
-## 👤 Author
-
-**Zin Zin Aye Chan**  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
