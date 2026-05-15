@@ -1,4 +1,4 @@
-# 🔍 MySQL Data Cleaning & EDA — World Layoffs Dataset
+# 🔍 MySQL Data Cleaning & EDA (World Layoffs Dataset)
 
 A MySQL project analysing global tech layoffs through a full data pipeline — from raw data cleaning to exploratory analysis. The dataset covers ~2,361 layoff records across companies, industries, and countries worldwide.
 
@@ -77,10 +77,3 @@ Explores layoff patterns across companies, industries, countries, and time perio
 ## 🛠️ Built With
 
 - MySQL
-
----
-
-## 👤 Author
-
-**Zin Zin Aye Chan**  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
