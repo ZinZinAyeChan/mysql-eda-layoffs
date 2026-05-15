@@ -1,4 +1,4 @@
-# 🔍 MySQL Exploratory Data Analysis — World Layoffs Dataset
+# 🔍 MySQL Exploratory Data Analysis ( World Layoffs Dataset )
 
 A MySQL EDA project analysing global tech layoff trends. Built on top of the cleaned dataset from Project 1 - Data Cleaning, this project explores patterns across companies, industries, countries, and time periods.
 
